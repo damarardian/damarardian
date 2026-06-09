@@ -25,32 +25,43 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="35" align="absmiddle" /> DevOps & Infrastructure As Code (IaC)
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" align="absmiddle" /> CI/CD & GitOps
-<img src="https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Argo_CD-FF530E?style=for-the-badge&logo=argo&logoColor=white" /> 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" align="absmiddle" /> Monitoring & Visibility
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Headlamp-🚀-blue?style=for-the-badge" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="35" align="absmiddle" /> Backend & Development Tools
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
----
-
-
-
-## 📊 Statistik GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=damarardian&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damarardian&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <th align="center">🛠️ Tech Stack & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" align="absmiddle" /> <b>DevOps & Infrastructure As Code (IaC)</b><br />
+      <br />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="absmiddle" /> <b>CI/CD & GitOps</b><br />
+      <br />
+      <img src="https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Argo_CD-FF530E?style=for-the-badge&logo=argo&logoColor=white" /> 
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" align="absmiddle" /> <b>Monitoring & Visibility</b><br />
+      <br />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Headlamp-🚀-blue?style=for-the-badge" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" align="absmiddle" /> <b>Backend & Development Tools</b><br />
+      <br />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">📊 Statistik GitHub</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=damarardian&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damarardian&layout=compact&theme=radical" alt="Top Languages" />
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 ---
 
