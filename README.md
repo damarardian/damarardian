@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Tentang Saya
+## Tentang Saya
 
 Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat lunak dan operasi sistem. Berbekal pengalaman IT Support dan full-stack PHP/Laravel, saya terbiasa membangun solusi web kustom dan REST API. Fokus utama saya saat ini adalah optimasi *pipeline deployment*, manajemen Docker, serta konfigurasi *cluster* Kubernetes *bare-metal* & VM demi membangun infrastruktur yang andal, aman, dan *scalable*.
 
