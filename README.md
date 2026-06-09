@@ -61,6 +61,20 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
       <br /><br />
     </td>
   </tr>
+  <tr>
+    <th align="center" style="text-transform: uppercase;">Kontribusi GitHub</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <div align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damarardian/damarardian/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damarardian/damarardian/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/damarardian/damarardian/output/github-contribution-grid-snake.svg" />
+        </picture>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
