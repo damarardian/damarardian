@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/damarardian/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=damarardian&label=Profile%20views&color=fe428e&style=flat" alt="Visitor Counter" />
 </p>
 
 ---
