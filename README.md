@@ -4,9 +4,9 @@
 <p align="center">
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=fe428e&center=true&vCenter=true&width=550&lines=Welcome+to+My+Profile;A+fullstack+developer;Think+like+an+Engineer;Casual+Gamer;Classical+Music+Enjoyer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=fe428e&center=true&vCenter=true&width=550&lines=Welcome+to+My+Profile;+PHP+fullstack+developer;DevOps+Engineer;Cat+Lovers;Problem+Solver" alt="Typing SVG" />
   </a>
-  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" height="40" alt="Cat typing" />
+  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" height="200" alt="Cat typing" />
 </p>
 
 <p align="center">
