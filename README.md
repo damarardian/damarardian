@@ -33,21 +33,12 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" align="absmiddle" /> CI/CD & GitOps
 <img src="https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Argo_CD-FF530E?style=for-the-badge&logo=argo&logoColor=white" /> 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="35" align="absmiddle" /> Monitoring & Visibility
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" align="absmiddle" /> Monitoring & Visibility
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Headlamp-🚀-blue?style=for-the-badge" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="35" align="absmiddle" /> Backend & Development Tools
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-
----
-
-## 🎓 Sertifikasi & Pengalaman Khusus
-
-- 📜 **Certified Junior Web Programmer** – Badan Nasional Sertifikasi Profesi (LSP)
-  *Mengembangkan aplikasi web dengan fungsionalitas CRUD komprehensif, desain responsif fleksibel, dan visual berpusat pada pengguna.*
-- 🔍 **Digital Forensics & Data Integrity Specialist** (Magang Investigasi)
-  *Berpengalaman menggunakan FTK Imager untuk akuisisi bukti digital, menerapkan hashing untuk verifikasi integritas data, dan analisis metadata.*
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ---
 
@@ -55,11 +46,10 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
 
 ## 📊 Statistik GitHub
 
-Perekrut dapat melihat keaktifan dan ringkasan performa repositori saya di bawah ini:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damarardian&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damarardian&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=damarardian&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damarardian&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -70,5 +60,5 @@ Saya selalu terbuka untuk berdiskusi mengenai arsitektur cloud, Kubernetes, GitO
 
 | | |
 | --- | --- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damarardian) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damar-ardian-alfi-risky) |
 | **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damar.rizki212@gmail.com) |
