@@ -27,7 +27,7 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
 
 <table align="center" width="100%">
   <tr>
-    <th align="center">🛠️ Tech Stack & Tools</th>
+    <th align="center" style="text-transform: uppercase;">Tech Stack & Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -51,7 +51,7 @@ Lulusan Sistem Informasi & DevOps Engineer yang menjembatani rekayasa perangkat 
     </td>
   </tr>
   <tr>
-    <th align="center">📊 Statistik GitHub</th>
+    <th align="center" style="text-transform: uppercase;">Statistik GitHub</th>
   </tr>
   <tr>
     <td align="center">
